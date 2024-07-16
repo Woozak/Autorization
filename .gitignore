@@ -1,0 +1,8 @@
+.env
+users.db
+auth/keys/private.pem
+auth/keys/public.pem
+migrations/versions/*
+
+.venv/
+.idea/
